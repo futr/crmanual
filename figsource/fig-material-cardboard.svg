@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="fig-material-cardboard.svg"
+   inkscape:export-filename="/home/masato/Documents/Projects/CRマニュアル/manual/figsource/fig-material-cardboard.png"
+   inkscape:export-xdpi="100"
+   inkscape:export-ydpi="100">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="311.41007"
+     inkscape:cy="825.06606"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1057"
+     inkscape:window-height="875"
+     inkscape:window-x="117"
+     inkscape:window-y="24"
+     inkscape:window-maximized="0"
+     inkscape:object-paths="false" />
+  <defs
+     id="defs4">
+    <marker
+       style="overflow:visible"
+       id="TriangleOutS"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="TriangleOutS">
+      <path
+         transform="scale(0.2)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         id="path4145" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInS"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="TriangleInS">
+      <path
+         transform="scale(-0.2)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         id="path4136" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInSQ"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="TriangleInSQ">
+      <path
+         transform="scale(-0.2)"
+         style="stroke:#0051ff;stroke-width:1.0pt;fill:#0051ff;fill-rule:evenodd"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         id="path5262" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutSl"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="TriangleOutSl">
+      <path
+         transform="scale(0.2)"
+         style="stroke:#0051ff;stroke-width:1.0pt;fill:#0051ff;fill-rule:evenodd"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         id="path5265" />
+    </marker>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3064">
+      <path
+         inkscape:export-ydpi="300.16"
+         inkscape:export-xdpi="300.16"
+         inkscape:export-filename="/home/masato/Documents/Projects/CRマニュアル/manual/figsource/fig-material-cardboard.png"
+         transform="matrix(3.2421537,0,0,3.2421309,-1875.6159,-1282.7924)"
+         d="m 577.14286,610.93359 a 37.142857,37.142857 0 1 1 -74.28572,0 37.142857,37.142857 0 1 1 74.28572,0 z"
+         sodipodi:ry="37.142857"
+         sodipodi:rx="37.142857"
+         sodipodi:cy="610.93359"
+         sodipodi:cx="540"
+         id="path3066"
+         style="color:#000000;fill:none;stroke:#0052ff;stroke-width:1.54219007;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc" />
+    </clipPath>
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="レイヤー 1">
+    <g
+       transform="matrix(1.0227593,0,0,1.020104,368.86175,-454.55473)"
+       id="g4867"
+       inkscape:export-filename="/home/masato/Documents/Projects/CRマニュアル/manual/figsource/fig-material-cardboard.png"
+       inkscape:export-xdpi="300.16"
+       inkscape:export-ydpi="300.16"
+       clip-path="url(#clipPath3064)">
+      <path
+         style="fill:#745421;fill-opacity:1;stroke:none;display:inline"
+         d="m -140.7185,733.91889 -5.35715,11.7857 93.571431,2.5 42.499999,-0.7143 36.42858,2.5 28.57142,-1.4285 54.64286,4.2857 37.85714,0.7143 20.89769,0.1588 -2,-31 -10.5,-15 c 0,0 -139,-37.5 -137,-37.5 2,0 -159.61197,63.6983 -159.61197,63.6983 z"
+         id="path4958"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#906c3d;fill-opacity:1;stroke:none;display:inline"
+         d="m 120.04963,750.17789 -6.00273,-8.4885 -9.58158,10.7613 -8.40182,-10.2129 -7.43501,8.6581 -8.67603,-9.3941 -7.20414,7.6084 -6.28064,-7.8609 -6.93364,7.0203 -8.15302,-8.4705 -6.84698,8.871 -7.54334,-10.0471 -8.00507,10.8443 -8.08801,-11.6019 -7.60461,10.6568 -7.4999999,-10.718 -7.07786,10.1083 -7.29079,-9.7079 -7.9834201,9.1415 -7.01658,-9.1415 -6.450239,9.3724 -7.3954,-9.7116 -7.43872,9.5241 -8.12763,-9.6287 -6.53317,9.6899 -8.10969,-10.5088 -10.23087,10.195 -7.87881,-11.6236 -9.64286,11.3927 -9.411981,-12.2115 -8.44516,11.5585 -9.15944,-12.042 -9.70414,11.4107 -7.18618,-10.6314 -3.92857,8.5715 6.11197,-14.8412 17,-26 243.5,-0.5 z"
+         id="path4962"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#917343;fill-opacity:1;stroke:none;display:inline"
+         d="m -138.93279,721.06179 -7.85714,12.8571 48.214291,0 36.78571,3.5714 93.571429,0.3572 33.92857,3.2143 31.78571,1.0714 39.28572,-1.7857 10,0 18.61197,3.8731 -5.5,-63 -168.4999999,-19 z"
+         id="path4956"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#ad884d;fill-opacity:1;stroke:none;display:inline"
+         d="m -136.43279,721.41889 -5.71428,11.4286 c 4.33731,-2.9777 13.54604,-11.3494 13.54604,-11.3494 l 14.18855,12.0024 16.742391,-11.1581 14.61747,12.0816 13.51015,-11.2014 13.15301,14.0406 17.60461,-13.9973 12.64793,14.1632 14.704129,-12.7346 14.0765101,13.0304 13.0663499,-13.4309 14.93872,13.5355 12.24746,-10.7396 11.93365,12.63 11.82905,-12.3162 13.48477,13.8314 14.28572,-13.3264 11.42857,13.6835 14.53824,-13.4743 10.31382,10.0867 2.1834,-48.984 -246,11.5 z"
+         id="path4960"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#dbb87d;fill-opacity:1;stroke:none;display:inline"
+         d="m -68.932789,602.49031 -15,23.21428 -32.500001,44.2857 -16.07143,30 -14.81245,20.3825 3.74102,1.0461 c 0,0 44.285721,0 53.214291,1.0714 8.92857,1.0715 45,-1.0714 52.5,0.7143 7.5,1.7857 46.0714291,1.7857 53.214289,1.7857 7.14285,0 34.28571,3.2143 39.28571,2.8572 5,-0.3572 91.42857,0.3571 91.42857,0.3571 l 24.64286,0.7143 -8.8166,-96.69835 -57.5,-44.5 -160.271964,-5.22317 z"
+         id="path3843"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccccssccccccc" />
+      <path
+         style="fill:none;stroke:#a2763b;stroke-width:0.97901881px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+         d="M -38.575639,719.63319 -10.7185,639.27599"
+         id="path4970"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#a2763b;stroke-width:0.97901881px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+         d="m -68.932789,719.63319 18.92857,-48.5714 24.999999,-50.3572"
+         id="path4968"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#a2763b;stroke-width:0.97901881px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+         d="m -103.2185,718.56179 28.571431,-49.6429 38.92857,-64.28573"
+         id="path4966"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#a2763b;stroke-width:0.97901881px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+         d="m -126.43279,717.49029 30.714291,-48.5714 24.64286,-36.42858"
+         id="path4964"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.97901881px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+         d="m 120.04963,750.17789 -6.00273,-8.4885 -9.58158,10.7613 -8.40182,-10.2129 -7.43501,8.6581 -8.67603,-9.3941 -7.20414,7.6084 -6.28064,-7.8609 -6.93364,7.0203 -8.15302,-8.4705 -6.84698,8.871 -7.54334,-10.0471 -8.00507,10.8443 -8.08801,-11.6019 -7.60461,10.6568 -7.4999999,-10.718 -7.07786,10.1083 -7.29079,-9.7079 -7.9834201,9.1415 -7.01658,-9.1415 -6.450239,9.3724 -7.3954,-9.7116 -7.43872,9.5241 -8.12763,-9.6287 -6.53317,9.6899 -8.10969,-10.5088 -10.23087,10.195 -7.87881,-11.6236 -9.64286,11.3927 -9.411981,-12.2115 -8.44516,11.5585 -9.15944,-12.042 -9.70414,11.4107 -7.18618,-10.6314 -3.92857,8.5715"
+         id="path4998"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.97901881px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+         d="m -136.43279,721.41889 -5.71428,11.4286 c 4.33731,-2.9777 13.54604,-11.3494 13.54604,-11.3494 l 14.18855,12.0024 16.742391,-11.1581 14.61747,12.0816 13.51015,-11.2014 13.15301,14.0406 17.60461,-13.9973 12.64793,14.1632 14.704129,-12.7346 14.0765101,13.0304 13.0663499,-13.4309 14.93872,13.5355 12.24746,-10.7396 11.93365,12.63 11.82905,-12.3162 13.48477,13.8314 14.28572,-13.3264 11.42857,13.6835 14.53824,-13.4743 10.31382,10.0867"
+         id="path4996"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.97901881px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+         d="m -140.7185,733.91889 -5.35715,11.7857 93.571431,2.5 42.499999,-0.7143 36.42858,2.5 28.57142,-1.4285 54.64286,4.2857 37.85714,0.7143"
+         id="path4994"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.97901881px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+         d="m -138.93279,721.06179 -7.85714,12.8571 48.214291,0 36.78571,3.5714 93.571429,0.3572 33.92857,3.2143 31.78571,1.0714 39.28572,-1.7857 10,0"
+         id="path4992"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.97901881px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+         d="m -64.241339,595.5586 -19.69145,30.14599 -32.500001,44.2857 -16.07143,30 -14.81245,20.3825 3.74102,1.0461 c 0,0 44.285721,0 53.214291,1.0714 8.92857,1.0715 45,-1.0714 52.5,0.7143 7.5,1.7857 46.0714291,1.7857 53.214289,1.7857 7.14285,0 34.28571,3.2143 39.28571,2.8572 5,-0.3572 91.42857,0.3571 91.42857,0.3571 l 24.64286,0.7143"
+         id="path4778"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccccssccc" />
+    </g>
+    <g
+       transform="matrix(0.5859214,0,0,0.65108401,258.87067,-235.65487)"
+       id="g4811"
+       inkscape:export-filename="/home/masato/Documents/Projects/CRマニュアル/manual/figsource/fig-material-cardboard.png"
+       inkscape:export-xdpi="300.16"
+       inkscape:export-ydpi="300.16">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.61905563px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+         d="m 580.43847,597.35401 -5.39672,2.07661 -5.81184,-2.90725 -5.81186,2.07662 -4.98157,-1.24598"
+         id="path4830"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.61905563px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+         d="m 291.92178,595.27739 4.15133,2.90727 5.81183,-2.90727 4.56646,2.90727 5.81184,-2.07661 0.83027,-0.41533 4.56645,2.90727"
+         id="path4828"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#906610;fill-opacity:1;stroke:#000000;stroke-width:1.61905563px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+         d="m 285.27966,595.69272 299.31013,1.24596 14.52961,242.13339 -1.24539,4.15326 -4.59052,7.67006 -313.97316,-245.04478 z"
+         id="path4826"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#d1b98a;fill-opacity:1;stroke:none;display:inline"
+         d="m 279.45216,605.68302 17.96078,249.75213 93.64873,-0.17219 84.61151,-0.75931 117.90339,-2.86554 -15.85131,-246.10192 z"
+         id="path3180"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#cea563;stroke-width:1.61905563px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+         d="m 515.67789,850.701 -7.88752,-92.82458"
+         id="path4824"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#cea563;stroke-width:1.61905563px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+         d="m 531.66047,850.90871 -5.60429,-69.56655"
+         id="path4822"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#cea563;stroke-width:1.61905563px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+         d="m 548.47331,849.45506 -7.05725,-75.58873"
+         id="path4820"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#cea563;stroke-width:1.61905563px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+         d="m 565.07859,850.28574 -7.05724,-91.99406"
+         id="path4818"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#cea563;stroke-width:1.61905563px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+         d="M 581.06116,849.87048 576.28715,782.3804"
+         id="path4816"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#cea563;stroke-width:1.61905563px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+         d="m 356.39414,609.94135 3.22896,87.51592"
+         id="path4814"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#cea563;stroke-width:1.61905563px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+         d="m 342.01055,608.47295 4.1096,109.54177"
+         id="path4812"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#cea563;stroke-width:1.61905563px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+         d="m 325.8657,608.17928 5.5773,140.37788"
+         id="path4810"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#cea563;stroke-width:1.61905563px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+         d="m 308.25314,608.47295 5.28377,121.87623"
+         id="path4808"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#cea563;stroke-width:1.61905563px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+         d="m 291.52122,607.8856 4.1096,89.27795"
+         id="path4806"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.61905563px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+         d="m 502.2848,601.131 5.57731,4.69886 6.75148,-6.16723 6.16439,5.87355 6.45795,-5.57988 5.87084,5.28619 5.87085,-5.87354 8.2192,6.16723 6.16439,-5.57988 6.1644,4.99252 8.21919,-5.57987 5.87085,5.57987"
+         id="path4804"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.61905563px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+         d="m 285.06329,598.48791 6.45793,6.46091 8.51273,-6.16724 8.51273,6.46091 9.09983,-6.46091 7.6321,6.16724 7.63211,-6.46091 7.92565,6.16723 8.2192,-5.87356 6.45793,6.46091 8.2192,-6.16723 5.57731,5.57988 5.87085,-3.52414"
+         id="path4802"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.61905563px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+         d="m 281.24723,598.48791 300.58762,1.17472 15.26422,243.75249 -2.93543,7.63569"
+         id="path4800"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.61905563px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+         d="m 580.43847,597.35401 -5.39672,2.07661 -5.81184,-2.90725 -5.81186,2.07662 -4.98157,-1.24598"
+         id="path4916"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.61905563px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+         d="m 291.92178,595.27739 4.15133,2.90727 5.81183,-2.90727 4.56646,2.90727 5.81184,-2.07661 0.83027,-0.41533 4.56645,2.90727"
+         id="path4914"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.61905563px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+         d="m 285.27966,595.69272 299.31013,1.24596 14.52961,242.13339 -1.24539,4.15326"
+         id="path4912"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.61905563px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+         d="m 502.2848,601.131 5.57731,4.69886 6.75148,-6.16723 6.16439,5.87355 6.45795,-5.57988 5.87084,5.28619 5.87085,-5.87354 8.2192,6.16723 6.16439,-5.57988 6.1644,4.99252 8.21919,-5.57987 5.87085,5.57987"
+         id="path4890"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.61905563px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+         d="m 285.06329,598.48791 6.45793,6.46091 8.51273,-6.16724 8.51273,6.46091 9.09983,-6.46091 7.6321,6.16724 7.63211,-6.46091 7.92565,6.16723 8.2192,-5.87356 6.45793,6.46091 8.2192,-6.16723 5.57731,5.57988 5.87085,-3.52414"
+         id="path4888"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.61905563px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+         d="m 281.24723,598.48791 300.58762,1.17472 15.26422,243.75249 -2.93543,7.63569"
+         id="path4886"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.61905563px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+         d="m 279.45216,605.68301 17.96078,249.75212 93.64872,-0.17218 84.61151,-0.75931 117.90339,-2.86555 -15.85131,-246.10191 z"
+         id="path4792"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       transform="matrix(0.65254233,0.01752168,-0.01756729,0.6508482,461.25419,-239.25006)"
+       style="fill:#0052ff;fill-opacity:1;stroke:none"
+       id="g4837"
+       inkscape:export-filename="/home/masato/Documents/Projects/CRマニュアル/manual/figsource/fig-material-cardboard.png"
+       inkscape:export-xdpi="300.16"
+       inkscape:export-ydpi="300.16">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3223"
+         d="m 262.8125,610.75 -9.96875,0.71875 16.6875,232.96875 L 279.5,843.71875 262.8125,610.75 z"
+         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#0052ff;fill-opacity:1;stroke:none;stroke-width:10;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4843"
+         d="m 257.01415,599.602 11.20953,16.54196 -19.94897,1.42781 8.73944,-17.96977 z"
+         style="fill:#0052ff;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4845"
+         d="m 275.33626,855.59428 -11.20953,-16.54196 19.94897,-1.42781 -8.73944,17.96977 z"
+         style="fill:#0052ff;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+    </g>
+    <text
+       transform="scale(1.0013006,0.99870108)"
+       sodipodi:linespacing="125%"
+       id="text4807"
+       y="257.67291"
+       x="631.00732"
+       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0052ff;fill-opacity:1;stroke:none;font-family:'Takao Pゴシック';-inkscape-font-specification:Sans"
+       xml:space="preserve"
+       inkscape:export-filename="/home/masato/Documents/Projects/CRマニュアル/manual/figsource/fig-material-cardboard.png"
+       inkscape:export-xdpi="300.16"
+       inkscape:export-ydpi="300.16"><tspan
+         style="font-size:28px;fill:#0052ff;fill-opacity:1"
+         y="257.67291"
+         x="631.00732"
+         id="tspan4809"
+         sodipodi:role="line">90cm</tspan></text>
+    <g
+       transform="matrix(0.03713848,-0.65002944,0.65172144,0.03704206,35.637289,479.28729)"
+       id="g4847"
+       style="fill:#0052ff;fill-opacity:1;stroke:none"
+       inkscape:export-filename="/home/masato/Documents/Projects/CRマニュアル/manual/figsource/fig-material-cardboard.png"
+       inkscape:export-xdpi="300.16"
+       inkscape:export-ydpi="300.16">
+      <path
+         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#0052ff;fill-opacity:1;stroke:none;stroke-width:10;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+         d="m 262.8125,610.75 -9.96875,0.71875 16.6875,232.96875 L 279.5,843.71875 262.8125,610.75 z"
+         id="path4849"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#0052ff;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         d="m 257.01415,599.602 11.20953,16.54196 -19.94897,1.42781 8.73944,-17.96977 z"
+         id="path4851"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#0052ff;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         d="m 275.33626,855.59428 -11.20953,-16.54196 19.94897,-1.42781 -8.73944,17.96977 z"
+         id="path4853"
+         inkscape:connector-curvature="0" />
+    </g>
+    <text
+       transform="scale(1.0013006,0.99870108)"
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0052ff;fill-opacity:1;stroke:none;font-family:'Takao Pゴシック';-inkscape-font-specification:Sans"
+       x="484.43506"
+       y="365.77475"
+       id="text4855"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/masato/Documents/Projects/CRマニュアル/manual/figsource/fig-material-cardboard.png"
+       inkscape:export-xdpi="300.16"
+       inkscape:export-ydpi="300.16"><tspan
+         sodipodi:role="line"
+         id="tspan4857"
+         x="484.43506"
+         y="365.77475"
+         style="font-size:28px;fill:#0052ff;fill-opacity:1">90cm</tspan></text>
+    <path
+       transform="matrix(0.39543328,0,0,0.39440665,216.12201,-84.847937)"
+       d="m 577.14286,610.93359 a 37.142857,37.142857 0 1 1 -74.28572,0 37.142857,37.142857 0 1 1 74.28572,0 z"
+       sodipodi:ry="37.142857"
+       sodipodi:rx="37.142857"
+       sodipodi:cy="610.93359"
+       sodipodi:cx="540"
+       id="path4859"
+       style="color:#000000;fill:none;stroke:#0052ff;stroke-width:12.66080379;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc"
+       inkscape:export-filename="/home/masato/Documents/Projects/CRマニュアル/manual/figsource/fig-material-cardboard.png"
+       inkscape:export-xdpi="300.16"
+       inkscape:export-ydpi="300.16" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:none;stroke:#0052ff;stroke-width:1.50983322;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path4861"
+       sodipodi:cx="540"
+       sodipodi:cy="610.93359"
+       sodipodi:rx="37.142857"
+       sodipodi:ry="37.142857"
+       d="m 577.14286,610.93359 a 37.142857,37.142857 0 1 1 -74.28572,0 37.142857,37.142857 0 1 1 74.28572,0 z"
+       transform="matrix(3.3159428,0,0,3.3073107,-1549.4419,-1763.1364)"
+       inkscape:export-filename="/home/masato/Documents/Projects/CRマニュアル/manual/figsource/fig-material-cardboard.png"
+       inkscape:export-xdpi="300.16"
+       inkscape:export-ydpi="300.16" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path4863"
+       d="m 243.14736,134.5834 186.65367,6.87625"
+       style="fill:none;stroke:#0052ff;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="/home/masato/Documents/Projects/CRマニュアル/manual/figsource/fig-material-cardboard.png"
+       inkscape:export-xdpi="300.16"
+       inkscape:export-ydpi="300.16" />
+    <path
+       sodipodi:nodetypes="cc"
+       style="fill:none;stroke:#0052ff;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="M 345.55756,322.63129 442.68044,162.88592"
+       id="path4865"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/masato/Documents/Projects/CRマニュアル/manual/figsource/fig-material-cardboard.png"
+       inkscape:export-xdpi="300.16"
+       inkscape:export-ydpi="300.16" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4885"
+       d="m 210.0374,283.86355 0,17.67094"
+       style="fill:#0052ff;fill-opacity:1;stroke:#0051ff;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#TriangleInSQ);marker-end:url(#TriangleOutSl)"
+       inkscape:export-filename="/home/masato/Documents/Projects/CRマニュアル/manual/figsource/fig-material-cardboard.png"
+       inkscape:export-xdpi="300.16"
+       inkscape:export-ydpi="300.16" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text5397"
+       y="303.84729"
+       x="135.43001"
+       style="font-size:10.43089294px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0052ff;fill-opacity:1;stroke:none;font-family:'Takao Pゴシック';-inkscape-font-specification:Sans"
+       xml:space="preserve"
+       transform="scale(1.0013006,0.99870108)"
+       inkscape:export-filename="/home/masato/Documents/Projects/CRマニュアル/manual/figsource/fig-material-cardboard.png"
+       inkscape:export-xdpi="300.16"
+       inkscape:export-ydpi="300.16"><tspan
+         style="font-size:28px;fill:#0052ff;fill-opacity:1"
+         y="303.84729"
+         x="135.43001"
+         id="tspan5399"
+         sodipodi:role="line">8mm</tspan></text>
+  </g>
+</svg>
